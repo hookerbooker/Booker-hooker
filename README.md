@@ -12,6 +12,6 @@
 <h1>Welcome to Booker Hooker</h1>
 <p>Australia’s fresh, bold, and secure escort directory.</p>
 <a href="#explore" style="display:inline-block; margin-top: 20px; padding: 10px 20px; background: #E5447C; color: #fff; text-decoration: none; border-radius: 5px;">Explore Escorts</a>
-</header>
+</header><link rel="stylesheet" href="style.css">
 </body>
-</html>
+</html><a href="#explore" class="explore-button">Explore Escorts</a>
